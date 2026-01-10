@@ -17,7 +17,7 @@ This is **not surface-level**. This roadmap *emphasizes*:
 * **2 hours/day max** (non-negotiable)
 * Depth > speed
 * Every concept → at least one lab
-* Everything documented like a real engineer
+* Document everything
 
 ---
 
@@ -47,7 +47,7 @@ Daily output:
 
 # WEEKS 1–2 — OPERATING SYSTEMS (REAL DEPTH)
 
-**Outcome:** You understand OS behavior, failures, logs, and administration.
+**Target:** Understanding OS behavior, failures, logs, and administration.
 
 ---
 
@@ -102,7 +102,7 @@ Daily output:
 
 # WEEKS 3–4 — NETWORKING (STRONG CORE)
 
-**Outcome:** You diagnose and reason about networks confidently.
+**Target:** Diagnose and reason networks confidently.
 
 ---
 
@@ -152,7 +152,7 @@ Daily output:
 
 # WEEK 5 — SYSTEM & NETWORK ADMINISTRATION
 
-**Outcome:** You operate like a junior sys/network admin.
+**Target:** Be able to operate smoothly
 
 ---
 
@@ -192,7 +192,7 @@ Labs:
 
 # WEEK 6 — SECURITY FOUNDATIONS (REAL WORLD)
 
-**Outcome:** You understand why security controls exist.
+**Target:** Understanding why security controls exist.
 
 ---
 
@@ -228,7 +228,7 @@ Labs:
 
 # WEEK 7 — SECURITY OPERATIONS
 
-**Outcome:** SOC‑level thinking.
+**Target:** SOC‑level exp.
 
 ---
 
@@ -262,7 +262,7 @@ Labs:
 
 # WEEK 8 — INTEGRATION & JOB READINESS
 
-**Outcome:** You connect IT + Security seamlessly.
+**Target:** Connect IT + Security seamlessly.
 
 ---
 
@@ -295,6 +295,4 @@ Resources:
 
 ## FINAL TRUTH
 
-> After this roadmap, you will not *feel* confident — you will **be** competent.
-
-This is the foundation professionals actually use.
+> Trust the process, hold the vision
