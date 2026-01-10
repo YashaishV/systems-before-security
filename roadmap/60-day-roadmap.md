@@ -2,9 +2,8 @@
 
 ## 60-Day Deep Foundation Roadmap (2 Hours/Day)
 
-**Goal:** Build *real, working depth* across IT Support, Networking, System Administration, and Entry‑Level Cybersecurity — while working a job in parallel.
 
-This is **not surface-level**. This roadmap emphasizes:
+This is **not surface-level**. This roadmap *emphasizes*:
 
 * Repetition
 * Real labs
