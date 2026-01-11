@@ -1,0 +1,14 @@
+## Windows Boot Process (REAL DEPTH)
+What you must understand
+
+BIOS vs UEFI
+
+Boot Manager (bootmgr)
+
+Winload
+
+Kernel initialization
+
+Services start order
+
+Common boot failures
